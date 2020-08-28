@@ -4,7 +4,7 @@
 
 - Nothing special here.
 
-[Ruby RPG](./Ruby/index.html)
+[Ruby RPG - Work in Progress](./Ruby/index.html)
 
 - Tutorial Based
   - Custom code:
